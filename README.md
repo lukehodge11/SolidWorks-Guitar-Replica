@@ -1,1 +1,2 @@
-# SolidWorks-Guitar-Replica
+# SolidWorks Guitar Replica
+
