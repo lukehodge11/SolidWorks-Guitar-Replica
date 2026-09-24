@@ -27,7 +27,13 @@ Measured: ≈6.60 lbs | Theoretical: 6.94 lbs | % Error: 4.9% <br><br>
 <img width="230" height="400" alt="image" src="https://github.com/user-attachments/assets/732622d9-e6e9-488b-9ff2-2ae6fed42c7e" />
 <br><br>
 <img width="400" height="310" alt="image" src="https://github.com/user-attachments/assets/40a7f70a-03e0-47a3-882d-fed0f9b73cd1" />
-<img width="242" height="288" alt="image" src="https://github.com/user-attachments/assets/92ec011f-79ce-4b65-916a-85479915239a" />
+<img width="261" height="310" alt="image" src="https://github.com/user-attachments/assets/92ec011f-79ce-4b65-916a-85479915239a" />
+<img width="274" height="310" alt="image" src="https://github.com/user-attachments/assets/52644103-2a78-440d-b0bc-e798f0302879" />
+<br>
+<img width="337" height="310" alt="image" src="https://github.com/user-attachments/assets/9c7ff646-4640-47ee-be74-91a242a8d2f3" />
+<img width="327" height="310" alt="image" src="https://github.com/user-attachments/assets/1a36becf-9cff-4c57-91e5-448cd077fcc6" />
+
+
 
 
 
